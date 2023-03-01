@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:53:57.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BwvDbK7gWZqF2Oc2h5xK" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:54:41.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="A2W39W66h88zHJ7cr7gk" version="20.8.23" type="github">
   <diagram name="Page-1" id="0QxT-u1bqCjxnYINYubb">
     <mxGraphModel dx="882" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,13 +134,13 @@
           <mxGeometry x="360" y="1490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pb_34YDVHzrE3iVv1_M4-43" value="Utilizator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="1035" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="1035" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pb_34YDVHzrE3iVv1_M4-44" value="Vizitator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="915" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pb_34YDVHzrE3iVv1_M4-45" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1290" width="30" height="60" as="geometry" />
+          <mxGeometry x="190" y="1500" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pb_34YDVHzrE3iVv1_M4-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pb_34YDVHzrE3iVv1_M4-44" target="pb_34YDVHzrE3iVv1_M4-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
